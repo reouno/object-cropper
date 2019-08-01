@@ -1,6 +1,11 @@
 # object-cropper
 Object cropping tool
 
+# Requirements
+
+- nvidia-docker
+- [yolov3-docker image](https://github.com/reouno/yolov3-docker)
+
 # Description
 
 - need `cfg` directory copied from https://github.com/reouno/darknet/tree/docker/cfg
@@ -11,4 +16,4 @@ Object cropping tool
 
 # How to use
 
-Run `./run.sh` for sample usage. It will output `sample_images/cropped_images`.
+Just run `./run.sh` for sample usage. It will output `sample_images/cropped_images`.
