@@ -11,4 +11,4 @@ Object cropping tool
 
 # How to use
 
-Run `./run.sh` for sample usage.
+Run `./run.sh` for sample usage. It will output `sample_images/cropped_images`.
