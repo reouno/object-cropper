@@ -17,3 +17,7 @@ Object cropping tool
 # How to use
 
 Just run `./run.sh` for sample usage. It will output `sample_images/cropped_images`.
+
+# Notes
+
+The owner of cropped image files will be root.
